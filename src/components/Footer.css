@@ -1,0 +1,23 @@
+.footer {
+    background-color: rgb(198, 248, 255);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .footer-top {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px; 
+  }
+
+  .footer-top a {
+    margin: 0 10px; 
+    text-decoration: none;
+    color: #333; 
+  }
+
+  .tag:hover {
+    color: rgb(147, 154, 255);
+  }
+  
